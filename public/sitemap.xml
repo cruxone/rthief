@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2021-03-12T21:06:31-08:00</lastmod>
+  </url><url>
+    <loc>/posts/mercurial/</loc>
+    <lastmod>2020-04-20T21:10:01-08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-20T21:10:01-08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2020-04-20T21:10:01-08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-20T21:10:01-08:00</lastmod>
+  </url><url>
+    <loc>/tags/untagged/</loc>
+    <lastmod>2020-04-20T21:10:01-08:00</lastmod>
+  </url><url>
+    <loc>/posts/in-dreams/</loc>
+    <lastmod>2020-04-05T21:10:57-08:00</lastmod>
+  </url><url>
+    <loc>/posts/feathers/</loc>
+    <lastmod>2019-04-05T20:40:46-08:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,101 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on rThief Crux</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on rThief Crux</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 20 Apr 2020 21:10:01 -0800</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Mercurial</title>
+			<link>/posts/mercurial/</link>
+			<pubDate>Mon, 20 Apr 2020 21:10:01 -0800</pubDate>
+			
+			<guid>/posts/mercurial/</guid>
+			<description>I once was known as a messenger
+But that was long ago
+When the rain was clean and the sky was dark at night
+Stars shown bright
+My home is so far away
+My body, once strong
+Flew to places that only Gods could dream
+It&amp;rsquo;s husk fell, faded like a memory
+Earth holds well, all the rest of me
+Whatever that may be</description>
+			<content type="html"><![CDATA[<p>I once was known as a messenger</p>
+<p>But that was long ago</p>
+<p>When the rain was clean and the sky was dark at night</p>
+<p>Stars shown bright</p>
+<p>My home is so far away</p>
+<p>My body, once strong</p>
+<p>Flew to places that only Gods could dream</p>
+<p>It&rsquo;s husk fell, faded like a memory</p>
+<p>Earth holds well, all the rest of me</p>
+<p>Whatever that may be</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>In Dreams</title>
+			<link>/posts/in-dreams/</link>
+			<pubDate>Sun, 05 Apr 2020 21:10:57 -0800</pubDate>
+			
+			<guid>/posts/in-dreams/</guid>
+			<description>You woke me up again and you’re not here
+I held your kiss on my cheek
+Then you said I had to go
+And it all faded to the sound of rain
+My window sill is wet
+A pattering to the cadence of my heart
+Eyes opening to soft light
+And again this is all I remember
+I feel a glow through my chest
+An inkling of a love
+Only in dreams</description>
+			<content type="html"><![CDATA[<p>You woke me up again and you’re not here</p>
+<p>I held your kiss on my cheek</p>
+<p>Then you said I had to go</p>
+<p>And it all faded to the sound of rain</p>
+<p>My window sill is wet</p>
+<p>A pattering to the cadence of my heart</p>
+<p>Eyes opening to soft light</p>
+<p>And again this is all I remember</p>
+<p>I feel a glow through my chest</p>
+<p>An inkling of a love</p>
+<p>Only in dreams</p>
+<p>I hold my cheek subconsciously</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Feathers</title>
+			<link>/posts/feathers/</link>
+			<pubDate>Fri, 05 Apr 2019 20:40:46 -0800</pubDate>
+			
+			<guid>/posts/feathers/</guid>
+			<description>There is a pair of wings glued to your back it seems
+Because when I am with you, I am sheltered from the wind and cold
+These cliffs and passes are less frightening
+The loneliness less biting
+I have hope and confidence
+Because you are here
+There is starlight in the night sky
+A tended fire in my heart
+Because of you and the time we’ve shared</description>
+			<content type="html"><![CDATA[<p>There is a pair of wings glued to your back it seems</p>
+<p>Because when I am with you, I am sheltered from the wind and cold</p>
+<p>These cliffs and passes are less frightening</p>
+<p>The loneliness less biting</p>
+<p>I have hope and confidence</p>
+<p>Because you are here</p>
+<p>There is starlight in the night sky</p>
+<p>A tended fire in my heart</p>
+<p>Because of you and the time we’ve shared</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
